@@ -512,4 +512,7 @@ span {
         width: 75vw;
         margin-top: 2rem;
     }
+    .contact form .input-box input {
+        width: 100%;
+    }
 }
